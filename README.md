@@ -1,79 +1,100 @@
-# Walmart_Sales_Dashboard
+# 🛒 Walmart Sales Dashboard
 
-📁 Project Overview
-This project showcases a Power BI dashboard built using Walmart sales data. The dashboard provides key insights into total sales, profit, quantity sold, average delivery days, and trends over time. Users can interact with the dashboard through multiple filters including Year, Month, State, City, and Category.
+Welcome to the **Walmart Sales Dashboard** project! This interactive dashboard was built using Power BI and Walmart sales data to uncover meaningful business insights in a visual and engaging way.
 
-📌 Key Features
-Interactive Filters:
-Users can filter data by Year, Month, State, City, and Product Category to view dynamic insights.
+---
 
-Summary KPIs:
+## 📁 Project Overview
 
-Total Sales
+This project features a dynamic Power BI dashboard created from Walmart's sales dataset. It highlights key business metrics like total sales, profit, quantity sold, average delivery days, and yearly sales trends. 
 
-Total Profit
+With intuitive slicers and filters, users can explore data by **Year**, **Month**, **State**, **City**, and **Product Category**, making it easy to dive into specifics.
 
-Total Quantity
+---
 
-Average Delivery Days
+## 📌 Key Features
 
-Visualizations:
+### 🔄 Interactive Filters
+You can filter the dashboard using:
+- **Year**
+- **Month**
+- **State**
+- **City**
+- **Category**
 
-Profit by Category (Bar Chart)
+### 📊 Summary KPIs
+At a glance, the dashboard showcases:
+- **Total Sales**
+- **Total Profit**
+- **Total Quantity Sold**
+- **Average Delivery Days**
 
-Sales by Year (Line Graph)
+### 📈 Visualizations Included
+- **Profit by Category** – Bar Chart  
+- **Sales by Year** – Line Graph  
+- **Profit by Year** – Bar Chart  
+- **Top Products by Sales** – Table View  
+- **Sales by Category** – Pie Chart
 
-Profit by Year (Bar Chart)
+---
 
-Product by Sales (Table View)
+## 📷 Dashboard Previews
 
-Sales by Category (Pie Chart)
+- 🔹 **Overall Sales View** – Shows complete trends and totals across all years  
+- 🔹 **Filtered View (December 2014)** – Focuses on performance in a specific month
 
-📷 Dashboard Previews
-🔹 Overall Sales (All Years)
+---
 
-🔹 Filtered View (December 2014)
+## 🛠 Tools Used
 
-🛠 Tools Used
-Power BI Desktop
+- **Power BI Desktop**
+- **Walmart Sales Dataset** (based on Global Superstore format)
+- **DAX** – for custom measures and calculated fields
+- **Slicers** – for interactivity and drill-down exploration
 
-Walmart Sales Dataset (Global Superstore or equivalent)
+---
 
-DAX Functions for calculated measures
+## 📈 Insights Gained
 
-Slicers for user interactivity
+- 📄 **Paper** and 📱 **Phones** categories delivered the highest profits.
+- 📆 **2014** was the peak sales year, showing strong growth.
+- 🚚 Average delivery remained steady at **4 days** across the board.
+- 🔝 Products like **Zipper Ring Binder Pockets** stood out in sales frequency.
 
-📈 Insights Gained
-Highest profits came from Paper and Phones categories.
+---
 
-Peak sales occurred in 2014, showing a significant upward trend.
+## 🧪 How to Use
 
-The average delivery time remained consistent at 4 days across all years.
+1. Download and open the `.pbix` file using **Power BI Desktop**.
+2. Use slicers to explore data by:
+   - Year  
+   - Month  
+   - State  
+   - City  
+   - Category  
+3. Hover over charts for more detailed insights and tooltips.
+4. Analyze the trends and patterns to support decision-making.
 
-Specific products like Zipper Ring Binder Pockets had strong sales performance.
+---
 
-📄 How to Use
-Open the .pbix file in Power BI Desktop.
+## 🔗 Useful References
 
-Use slicers to filter by:
+- [Power BI Official Docs](https://learn.microsoft.com/en-us/power-bi/)
+- [Sample Datasets - data.world](https://data.world/)
+- [DAX Function Guide](https://dax.guide/)
 
-Year
+---
 
-Month
+## 🙋‍♀️ Author
 
-State
+**Prachi Borate**  
+📧 Email: prachiborate@example.com  
+💼 Domain: Data Analysis  
+🌐 GitHub: [yourusername](https://github.com/yourusername)
 
-City
+---
 
-Category
+## 📄 License
 
-Hover over charts for detailed tooltips.
+This project is intended for educational and portfolio use only. For commercial use, please seek permission.
 
-Analyze trends and make business decisions based on the visuals.
-
-🔗 References
-Power BI Documentation: https://learn.microsoft.com/en-us/power-bi/
-
-Sample Data Source: https://data.world/
-
-DAX Guide: https://dax.guide/
