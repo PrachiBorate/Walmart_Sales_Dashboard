@@ -89,7 +89,6 @@ At a glance, the dashboard showcases:
 
 **Prachi Borate**  
 📧 Email: prachiborate001@gmail.com
-
 💼 Domain: Data Analysis  
 🌐 GitHub: https://github.com/PrachiBorate
 
