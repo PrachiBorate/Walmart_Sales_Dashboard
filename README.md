@@ -1,62 +1,79 @@
 # Walmart_Sales_Dashboard
 
-# 🛒 Walmart Sales Analysis Project
+📁 Project Overview
+This project showcases a Power BI dashboard built using Walmart sales data. The dashboard provides key insights into total sales, profit, quantity sold, average delivery days, and trends over time. Users can interact with the dashboard through multiple filters including Year, Month, State, City, and Category.
 
-This project presents an end-to-end analysis of Walmart sales data using Power BI, Python (Jupyter Notebook), and Excel. It explores category-wise and state-wise sales trends, product performance, and yearly insights to help Walmart make informed business decisions.
+📌 Key Features
+Interactive Filters:
+Users can filter data by Year, Month, State, City, and Product Category to view dynamic insights.
 
----
+Summary KPIs:
 
-## 📁 Project Files
+Total Sales
 
-| File Name                          | Description |
-|-----------------------------------|-------------|
-| `Walmart.xlsx`                    | The dataset used for the analysis. |
-| `walmart.ipynb`                   | Jupyter Notebook for data preprocessing and visualization using Python. |
-| `Walmart Sales Dashboard.pbix`    | Power BI dashboard file for interactive business intelligence. |
-| `image1.png`                      | Category-wise Sales Barplot (Python). |
-| `image2.png`                      | State-wise Sales Barplot (Python). |
-| `dashboard1.png`                 | Full Power BI Dashboard. |
-| `dashboard2.png`                 | Filtered Dashboard for December 2014. |
+Total Profit
 
----
+Total Quantity
 
-## 📊 Tools & Technologies
+Average Delivery Days
 
-- **Python** (pandas, matplotlib, seaborn)
-- **Power BI**
-- **Excel**
-- **Jupyter Notebook**
+Visualizations:
 
----
+Profit by Category (Bar Chart)
 
-## 📌 Key Insights
+Sales by Year (Line Graph)
 
-- **Binders** and **Paper** are top-selling categories.
-- **California** has the highest total sales among all states.
-- **2014** saw the highest profit among all years.
-- The **Zipper Ring Binder Pockets** product had notable frequency of sales.
+Profit by Year (Bar Chart)
 
----
+Product by Sales (Table View)
 
-## 🧪 Steps Performed
+Sales by Category (Pie Chart)
 
-1. **Data Cleaning & Preprocessing** (in Python Notebook)
-2. **Exploratory Data Analysis (EDA)** with seaborn/matplotlib
-3. **Sales Visualizations** – barplots by category & state
-4. **Interactive Dashboard** – built in Power BI with filters for year, state, city, and category
-5. **Insights Summary** to support business decision-making
+📷 Dashboard Previews
+🔹 Overall Sales (All Years)
 
----
+🔹 Filtered View (December 2014)
 
-## 📨 Contact Form Integration
+🛠 Tools Used
+Power BI Desktop
 
-Included HTML code snippet with variables (`{{name}}`, `{{message}}`, etc.) for EmailJS integration. Enables user communication through the dashboard/web form.
+Walmart Sales Dataset (Global Superstore or equivalent)
 
----
+DAX Functions for calculated measures
 
-## 🚀 How to Run
+Slicers for user interactivity
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/walmart-sales-analysis.git
-   cd walmart-sales-analysis
+📈 Insights Gained
+Highest profits came from Paper and Phones categories.
+
+Peak sales occurred in 2014, showing a significant upward trend.
+
+The average delivery time remained consistent at 4 days across all years.
+
+Specific products like Zipper Ring Binder Pockets had strong sales performance.
+
+📄 How to Use
+Open the .pbix file in Power BI Desktop.
+
+Use slicers to filter by:
+
+Year
+
+Month
+
+State
+
+City
+
+Category
+
+Hover over charts for detailed tooltips.
+
+Analyze trends and make business decisions based on the visuals.
+
+🔗 References
+Power BI Documentation: https://learn.microsoft.com/en-us/power-bi/
+
+Sample Data Source: https://data.world/
+
+DAX Guide: https://dax.guide/
