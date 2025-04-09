@@ -88,13 +88,11 @@ At a glance, the dashboard showcases:
 ## 🙋‍♀️ Author
 
 **Prachi Borate**  
-📧 Email: prachiborate@example.com  
+📧 Email: prachiborate001@gmail.com
 💼 Domain: Data Analysis  
-🌐 GitHub: [yourusername](https://github.com/yourusername)
+🌐 GitHub: https://github.com/PrachiBorate
 
 ---
 
-## 📄 License
 
-This project is intended for educational and portfolio use only. For commercial use, please seek permission.
 
